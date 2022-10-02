@@ -1,0 +1,15 @@
+Proceso sin_titulo
+	
+	escribir "ingrese el numero"
+	leer dato
+	Si dato MOD 2=0 y dato Mod 3=0 Entonces
+		escribir"Multiplo de 2 y 3 "
+	SiNo
+		escribir "No es multiplo de 2 y 3"
+	Fin Si
+	
+	
+	
+	
+	
+FinProceso
